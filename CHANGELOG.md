@@ -1,3 +1,11 @@
+## [1.0.3](https://github.com/asachs01/node-superops/compare/v1.0.2...v1.0.3) (2026-02-05)
+
+
+### Bug Fixes
+
+* Add varsIgnorePattern to ESLint config for unused destructured vars ([4f73099](https://github.com/asachs01/node-superops/commit/4f73099f037dcc322767200d6842ce0334fc726b))
+* Prefix unused variables with underscore to satisfy ESLint ([d55ada8](https://github.com/asachs01/node-superops/commit/d55ada8ca48ead7b133bf0bec7a2240e76577e7d))
+
 ## [1.0.2](https://github.com/asachs01/node-superops/compare/v1.0.1...v1.0.2) (2026-02-05)
 
 
