@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/asachs01/node-superops/compare/v1.0.1...v1.0.2) (2026-02-05)
+
+
+### Bug Fixes
+
+* Downgrade to ESLint 8.x for .eslintrc.json compatibility ([d528860](https://github.com/asachs01/node-superops/commit/d528860453b336a21a3f931c5fff882abbf5149e))
+
 ## [1.0.1](https://github.com/asachs01/node-superops/compare/v1.0.0...v1.0.1) (2026-02-05)
 
 
