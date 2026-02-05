@@ -52,8 +52,12 @@
   },
   "type": "module",
   "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/github": "^11.0.6",
     "@types/node": "^22.0.0",
     "msw": "^2.12.8",
+    "semantic-release": "^24.2.9",
     "tsup": "^8.5.1",
     "typescript": "^5.9.3",
     "vitest": "^4.0.18"
