@@ -1,6 +1,6 @@
 {
   "name": "@asachs01/node-superops",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
