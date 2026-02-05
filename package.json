@@ -1,6 +1,9 @@
 {
-  "name": "node-superops",
-  "version": "0.1.0",
+  "name": "@asachs01/node-superops",
+  "version": "0.0.0-development",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "description": "Comprehensive, fully-typed Node.js/TypeScript library for the SuperOps.ai GraphQL API",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
