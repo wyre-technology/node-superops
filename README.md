@@ -15,13 +15,13 @@ Comprehensive, fully-typed Node.js/TypeScript library for the SuperOps.ai GraphQ
 ## Installation
 
 ```bash
-npm install node-superops
+npm install @wyre-technology/node-superops
 ```
 
 ## Quick Start
 
 ```typescript
-import { SuperOpsClient } from 'node-superops';
+import { SuperOpsClient } from '@wyre-technology/node-superops';
 
 const client = new SuperOpsClient({
   apiToken: process.env.SUPEROPS_API_TOKEN!,
@@ -458,7 +458,7 @@ import {
   SuperOpsValidationError,
   SuperOpsRateLimitError,
   SuperOpsServerError,
-} from 'node-superops';
+} from '@wyre-technology/node-superops';
 
 try {
   await client.assets.get('non-existent');
