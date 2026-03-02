@@ -1,3 +1,11 @@
+## [1.0.4](https://github.com/wyre-technology/node-superops/compare/v1.0.3...v1.0.4) (2026-03-02)
+
+
+### Bug Fixes
+
+* require Node 22+ (semantic-release@25 compatibility) ([d8b98da](https://github.com/wyre-technology/node-superops/commit/d8b98dac8284c93ae3f644ed2199d54ff5691191))
+* require Node 22+ (semantic-release@25 compatibility) ([4f80032](https://github.com/wyre-technology/node-superops/commit/4f8003260176c3b234a63ce01df85b7bb9558448))
+
 ## [1.0.3](https://github.com/asachs01/node-superops/compare/v1.0.2...v1.0.3) (2026-02-05)
 
 
